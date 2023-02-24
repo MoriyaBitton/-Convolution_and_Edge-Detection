@@ -1,3 +1,3 @@
-# Convolution_and_Edge_Detection
+# Ex2 - Convolution and Edg Detection
 
-###### Ariel University, Israel || Semester B 2021
+###### Ariel University, Israel || Semester B, 2021
